@@ -8,7 +8,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "react": "16.8.3",
     "react-native": "0.59.8",
     "react-native-camera-tflite": "^0.0.3"
